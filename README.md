@@ -1,7 +1,7 @@
 # Spotify Market Basket Analysis
 
 ## Overview  
-This project analyzes Spotify listener behavior using Market Basket Analysis (MBA) to uncover co-listening patterns — songs and artists that frequently appear together in playlists.  
+This project analyzes Spotify listener behavior using Market Basket Analysis (MBA) to uncover co-listening patterns - songs and artists that frequently appear together in playlists.  
 The goal is to reveal hidden associations in music preferences and provide insights for smarter playlist generation or recommendation systems.
 
 ---
