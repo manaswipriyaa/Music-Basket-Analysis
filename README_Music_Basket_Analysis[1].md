@@ -1,12 +1,12 @@
-# Music Basket Analysis — Spotify
+# Music Basket Analysis - Spotify
 
-A data mining project applying Market Basket Analysis to Spotify listening data using the Apriori algorithm to discover co-listened song and artist association rules — visualised in an interactive Tableau dashboard.
+A data mining project applying Market Basket Analysis to Spotify listening data using the Apriori algorithm to discover co-listened song and artist association rules - visualised in an interactive Tableau dashboard.
 
 ---
 
 ## Problem Statement
 
-Music streaming platforms recommend songs based on what users listen to together. This project uses association rule mining to uncover patterns in Spotify listening behaviour — which songs or artists are frequently streamed together — and surfaces insights that could power playlist generation and recommendation features.
+Music streaming platforms recommend songs based on what users listen to together. This project uses association rule mining to uncover patterns in Spotify listening behaviour - which songs or artists are frequently streamed together - and surfaces insights that could power playlist generation and recommendation features.
 
 ---
 
@@ -112,5 +112,5 @@ To view the Tableau dashboard, open `tableau/music_dashboard.twbx` in Tableau De
 ## Author
 
 **Manaswi Priya Maddu**
-B.Tech — AI & Machine Learning | Acharya Nagarjuna University
+B.Tech - AI & Machine Learning | Acharya Nagarjuna University
 [LinkedIn](https://linkedin.com/in/manaswi-priya-2126481b8) | [GitHub](https://github.com/manaswipriyaa)
